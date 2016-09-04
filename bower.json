@@ -1,7 +1,7 @@
 {
   "name": "loglevel-serverSend",
   "main": "loglevel-serverSend.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/artemyarulin/loglevel-serverSend",
   "authors": [
     "Artem Yarulin <Artem.Yarulin@fessguid.com>"
@@ -17,6 +17,6 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "loglevel": "~1.2.0"
+    "loglevel": "~1.4.1"
   }
 }
